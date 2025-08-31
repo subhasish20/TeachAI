@@ -1,0 +1,70 @@
+Programming in C
+"""
+This function lets the user pick a specific C-language topic.  
+Once a topic is selected, the LLM tailors its explanations, code-snippets and troubleshooting hints directly to that C concept, giving the learner exactly the help they need.
+"""
+
+Digital Electronics
+"""
+By choosing a digital-electronics topic, the user receives focused LLM-generated content—Boolean algebra, K-maps, flip-flops, counters, etc.—streamlined to the selected sub-field instead of a broad overview.
+"""
+
+Computer Organization
+"""
+This function allows the learner to select a precise computer-architecture subject (e.g., pipelining, cache design, instruction sets).  
+The LLM then delivers in-depth explanations, diagrams and examples targeted to that exact area.
+"""
+
+Data Structures
+"""
+Users pick the exact data-structure topic they want to master.  
+The LLM responds with tailored walk-throughs, complexity analyses and implementation code for the chosen structure (arrays, trees, graphs, etc.).
+"""
+
+C++ Programming
+"""
+Selecting a C++ sub-topic triggers the LLM to generate focused guidance—be it OOP, STL, templates or memory management—so the user gets concise, relevant assistance rather than a generic C++ lecture.
+"""
+
+Operating System
+"""
+With this selector, the learner drills down to a single OS concept (scheduling, memory management, file systems, etc.) and receives LLM-generated explanations and examples crafted specifically for that concept.
+"""
+
+Database Management System (DBMS)
+"""
+Picking a DBMS topic (normalization, SQL tuning, transactions, etc.) prompts the LLM to return targeted insights, queries and best-practice tips aligned to the precise database issue at hand.
+"""
+
+Software Engineering
+"""
+The user chooses a software-engineering theme (SDLC, design patterns, agile, testing).  
+The LLM then delivers concise, context-aware guidance and case studies tailored to that engineering practice.
+"""
+
+Computer Networks
+"""
+By selecting a networking topic (TCP/IP, routing protocols, HTTP, etc.), the user receives LLM-generated explanations, packet diagrams and troubleshooting steps customized to the chosen network layer or protocol.
+"""
+
+Web Technology
+"""
+This function lets the user zero in on a web-tech subject (HTML5, CSS3, React, REST APIs).  
+The LLM responds with targeted tutorials, code snippets and deployment tips focused on that exact web component.
+"""
+
+Java Programming
+"""
+Selecting a Java topic triggers the LLM to produce focused content—be it collections, concurrency, Spring or JVM internals—ensuring the user gets precise help for the chosen Java area.
+"""
+
+Artificial Intelligence
+"""
+Users pick an AI sub-field (search algorithms, knowledge representation, NLP, robotics).  
+The LLM then generates targeted theory, algorithms and code examples specific to that AI domain.
+"""
+
+Machine Learning
+"""
+By choosing a particular ML topic (regression, clustering, boosting, etc.), the user receives LLM-curated explanations, math derivations and runnable code tuned to that exact machine-learning concept.
+"""
